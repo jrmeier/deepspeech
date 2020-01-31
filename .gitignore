@@ -1,0 +1,5 @@
+.DS_STORE
+.venv
+deepspeech-0.5.1-models/
+*.wav
+*.mp3
